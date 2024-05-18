@@ -4,12 +4,12 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <meta name="title" content="ChatGPT Caption Generator" />
+        <meta name="title" content="AI Caption Generator" />
         <meta
           name="description"
           content="Content for Instagram, Threads, or TikTok in seconds with ChatGPT. This Instagram Threads generator will help you grow followers with the help of AI."
         />
-        <meta property="og:site_name" content="captiongen.com" />
+        <meta property="og:site_name" content="caption.arvrtise.com" />
         <meta
           property="og:description"
           content="Content for Instagram, Threads, or TikTok in seconds with ChatGPT. This Instagram Threads generator will help you grow followers with the help of AI."
@@ -19,7 +19,7 @@ export default function Document() {
         <meta property="twitter:title" content="Instagram Caption Generator." />
         <meta
           property="twitter:description"
-          content="Content for Instagram, Threads, or TikTok in seconds with ChatGPT."
+          content="Content for Instagram, Threads, or TikTok in seconds with AI."
         />
         <meta
           property="og:image"

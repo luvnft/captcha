@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export default function Logo() {
-  const homepageUrl = "https://www.captiongen.com";
+  const homepageUrl = "https://cap.arvrtise.com";
 
   const handleLogoClick = () => {
     window.location.href = "/";
@@ -13,7 +13,7 @@ export default function Logo() {
       onClick={handleLogoClick}
     >
       <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">
-        captiongen
+      🧢CAP
       </span>
       <span></span>
     </h1>
